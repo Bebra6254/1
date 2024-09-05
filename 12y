@@ -1,7 +1,7 @@
 --Script Key
 script_key="rgyKoexosGfMqelUWRBqnlBDNZTyFgQo";
 --Config
-getgenv().Webhook = "https://discord.com/api/webhooks/1278123040693026892/q7Ee7jXjdqNoETlkUXcxQpUGpghC_OCnYiZOcpzgBVVKWG6JA2SLNNLYAHD5QKc7-2YC"
+getgenv().Webhook = "https://discord.com/api/webhooks/1271193726735093792/aHdUZ9cyjeXB_9T2UMlZte-tVN2wM-PEb5sqH_rdTlyFLJfNZHYISCICeHqsceM72wt7"
 getgenv().speed = 70 -- recommended 300 - 500 speed 
 getgenv().PublicServer = false
 getgenv().privatecode = "ZMkJ5ZDe9u"
