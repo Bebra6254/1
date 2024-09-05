@@ -1,0 +1,11 @@
+--Script Key
+script_key="rgyKoexosGfMqelUWRBqnlBDNZTyFgQo";
+--Config
+getgenv().Webhook = "https://discord.com/api/webhooks/1278123040693026892/q7Ee7jXjdqNoETlkUXcxQpUGpghC_OCnYiZOcpzgBVVKWG6JA2SLNNLYAHD5QKc7-2YC"
+getgenv().speed = 70 -- recommended 300 - 500 speed 
+getgenv().PublicServer = false
+getgenv().privatecode = "ZMkJ5ZDe9u"
+getgenv().fps = 30 -- recommended 30-40 only
+getgenv().HighPing = 0 -- not recommend to use
+--Script
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/34b171ed386616e1c0c35b5e5327bb75.lua"))()
